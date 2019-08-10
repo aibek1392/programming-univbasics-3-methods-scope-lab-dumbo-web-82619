@@ -4,7 +4,7 @@ puts status
 end
 
 def toadstool
-  puts status
+  puts "Thank You Mario! But Our Princess Is In Another Castle!"
 end
 def link
   puts "It's Dangerous To Go Alone! Take This."
